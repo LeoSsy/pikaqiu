@@ -5,5 +5,5 @@
 <img width="579" height="362" alt="image" src="https://github.com/user-attachments/assets/ab705a5c-0703-4cad-b9cd-511d3282dda6" />
 
 
-方法二：点开右上角的设置页面，填入你的baidkey或者高德key 保存即可
+方法二：点开右上角的设置页面，填入你的百度key或者高德key 保存即可
 
