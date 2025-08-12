@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <ImageView android:id="@+id/imageView"
+        android:layout_height="38.dp"
+        android:layout_width="38.dp"
+        android:contentDescription="@string/current_point"
+        android:src="@drawable/icon_gcoding"
+        />
+</LinearLayout>
+

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">皮卡丘定位</string>
+    <string name="time">00:00:00</string>
+    <string name="baidu_key">tDWb2Hk9M9xkLbpnPVVn5bHNK8wSgqFv</string>
+    <string name="app_service_tips">前台服务已启动</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="current_point">定位坐标</string>
+    <string name="restart">重启中</string>
+</resources>
